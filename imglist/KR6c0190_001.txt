@@ -1,0 +1,5 @@
+001-0945a00	X 001-0945a	buddhist/X-xuzang/X26/09/X26-0945.png
+001-0945b00	X 001-0945b	buddhist/X-xuzang/X26/09/X26-0945.png
+001-0945c00	X 001-0945c	buddhist/X-xuzang/X26/09/X26-0945.png
+001-0946a00	X 001-0946a	buddhist/X-xuzang/X26/09/X26-0946.png
+001-0946b00	X 001-0946b	buddhist/X-xuzang/X26/09/X26-0946.png
