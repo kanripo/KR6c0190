@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:33.466431
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:00
 #+TITLE: 般若心經註解
 #+PROPERTY: CBETA_ID X26n0571
 #+PROPERTY: ID KR6c0190
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 26, No. 571
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0190_X_001-0944c> 
 #+PROPERTY: JUAN 1
-No.571¶
-
- 般若波羅蜜多心經註解¶
+No. 571¶
+般若波羅蜜多心經註解¶
 
 【世尊在靈鷲山中。入甚深光明宣說正法三摩提。¶
 舍利子白觀自在菩薩言。若有人欲修甚深般若¶
@@ -114,7 +113,7 @@ No.571¶
 之因。能招來世之果。此三支現世所作之惡因也。¶
 十一名生。謂受來生五蘊之身也。十二名老死。謂¶
 來世之身。既老而死。此二支來世當受之果也。葢¶
-此十二因緣。該通三世因果。何見人生禍福。已定¶
+此十二因緣。該通三世因果。何見人生禍福。巳定¶
 此善惡因緣。不肯脩行。妄求富貴安樂。何益不造。¶
 無業無縛。即得清淨法身。若造惡業。展轉因依。如¶
 輪旋轉。無有休息。一切眾生。迷而不知。良可悲也。¶
